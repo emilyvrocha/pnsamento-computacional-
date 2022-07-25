@@ -1,1 +1,1 @@
-# pnsamento-computacional-
+# pensamento-computacional-
